@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 # 8258 BLE RCU Quick Start
 
@@ -64,7 +65,7 @@ Plug the IR code analyzer to PC and open the revelant PC software about IR code 
 Press the button and the software will display the IR data.
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-4 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/RCU)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
