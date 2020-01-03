@@ -25,8 +25,8 @@ This quick start guide uses the Telink 8258 RCU demo as an step-by-step example 
 
 __Step 1__: The appearance of the 8258RCU and dongle are as follows:
 
-![825RCU-dongle-appearance-1](https://telinkgithub.github.io/Assets/09_Solutions-RCU/20181022-152334.png)
-![825RCU-dongle-appearance-2](https://telinkgithub.github.io/Assets/09_Solutions-RCU/20181022-152642.png)
+![Step 1-1](https://telinkgithub.github.io/Assets/09_Solutions-RCU/20181022-152334.png)
+![Step 1-2](https://telinkgithub.github.io/Assets/09_Solutions-RCU/20181022-152642.png)
 
 
 __Step 2__: Download the remote.bin file to the RCU ([Burning and Debugging Tool](https://telinkgithub.github.io/Programming-and-Debugging/))
