@@ -29,7 +29,7 @@ __Step 1__: The appearance of the 8258RCU and dongle are as follows:
 ![825RCU-dongle-appearance-2](https://telinkgithub.github.io/Assets/09_Solutions-RCU/20181022-152642.png)
 
 
-__Step 2__: Download the remote.bin file to the RCU ([Burning and Debugging Tool](https://telinkgithub.github.io/Programming-Debugging/))
+__Step 2__: Download the remote.bin file to the RCU ([Burning and Debugging Tool](https://telinkgithub.github.io/Programming-and-Debugging/))
 
 This is the RCU bin link: [8258_ble_remote_IR.bin](https://telinkgithub.github.io/Assets/09_Solutions-RCU/remote_bin.zip)
 
